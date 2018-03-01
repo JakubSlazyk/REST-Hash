@@ -1,0 +1,1 @@
+<% response.sendRedirect("hash/list");%>
